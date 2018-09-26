@@ -1,6 +1,8 @@
 # aws-cognito-boilerplate-vue
 An aws cognito boilerplate app built with Vue.js powering frontend
 
+## Important
+You will need AWS_ACCESS_KEY and AWS_SECRET_KEY credentials for AWS cognito to work. To supply AWS_SECRET_KEY & AWS_ACCESS_KEY, replace them in code, path: `aws-cognito-boilerplate-vue/cognito-services/` as in `index.js` file you'll find config. 
 
 ## Usage 
 
